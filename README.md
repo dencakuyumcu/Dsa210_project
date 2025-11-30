@@ -39,6 +39,21 @@ Possible approaches include:
 - Random Forest or Decision Tree for understanding influential factors  
 - Optional: A simple time-series model for pattern prediction
 Model results will be evaluated using metrics such as R², MSE, MAE, or accuracy.
+### **Hypothesis 1: CoffeeAmount_ml → EnergyLevel**
+**Null Hypothesis (H₀):**  
+Coffee consumption does not significantly affect energy level.
+**Alternative Hypothesis (H₁):**  
+Coffee consumption has a statistically significant effect on energy level.
+**Tests used:**  
+- Pearson correlation (linear)  
+- Spearman correlation (monotonic)
+- 
+### **Hypothesis 2: SleepDuration_hr → EnergyLevel**
+**Null Hypothesis (H₀):**  
+Sleep duration does not significantly affect energy level.
+**Alternative Hypothesis (H₁):**  
+Sleep duration significantly affects energy level.
+
 ## Expected Outcomes
 - Visualize how coffee intake and sleep are related
 - Gain personal insight to improve my caffeine habits and sleep routine
