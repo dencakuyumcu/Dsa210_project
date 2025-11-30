@@ -51,6 +51,7 @@ Coffee consumption has a statistically significant effect on energy level.
 ### **Hypothesis 2: SleepDuration_hr → EnergyLevel**
 **Null Hypothesis (H₀):**  
 Sleep duration does not significantly affect energy level.
+
 **Alternative Hypothesis (H₁):**  
 Sleep duration significantly affects energy level.
 
