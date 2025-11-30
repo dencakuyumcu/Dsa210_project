@@ -42,6 +42,7 @@ Model results will be evaluated using metrics such as R², MSE, MAE, or accuracy
 ### **Hypothesis 1: CoffeeAmount_ml → EnergyLevel**
 **Null Hypothesis (H₀):**  
 Coffee consumption does not significantly affect energy level.
+
 **Alternative Hypothesis (H₁):**  
 Coffee consumption has a statistically significant effect on energy level.
 **Tests used:**  
