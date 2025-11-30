@@ -45,6 +45,7 @@ Coffee consumption does not significantly affect energy level.
 
 **Alternative Hypothesis (H₁):**  
 Coffee consumption has a statistically significant effect on energy level.
+
 **Tests used:**  
 - Pearson correlation (linear)  
 - Spearman correlation (monotonic)
